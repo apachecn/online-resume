@@ -1,4 +1,4 @@
-# 简历生成器
+# 在线简历生成器
 
 ### [英文文档](README.md)
 
@@ -15,7 +15,7 @@
 
 我们可以利用 Github 的静态页面托管服务 Github Pages 来帮助我们做页面展示。
 
-![背景图](https://raw.githubusercontent.com/caojiele/resume/master/img-folder/bd-show0.png)
+![背景图](https://cdn.nlark.com/yuque/0/2019/png/338441/1563288299459-d2416856-ef5f-4c15-a2a6-041ae4f3f6ca.png)
 
 **什么是 Github Pages？**
 
@@ -46,17 +46,17 @@ Github Pages 是 Github 的静态页面托管服务。它设计的初衷是为�
 
 简历页面展示： 
 
-![简历页面展示](https://raw.githubusercontent.com/caojiele/resume/master/img-folder/bd_show3.png) 
+![简历页面展示](https://cdn.nlark.com/yuque/0/2019/png/338441/1563288435058-5e6b931a-5ddf-4f8f-97b8-fdf1030ee04b.png) 
 
 保存后的 pdf 版本：
 
-![保存后的 pdf 版本](https://raw.githubusercontent.com/caojiele/resume/master/img-folder/bd_show4.png) 
+![保存后的 pdf 版本](https://cdn.nlark.com/yuque/0/2019/png/338441/1563288446983-260d6296-7fb9-4e94-982a-b2e0c9ac6775.png) 
 
 Mark简历生成器操作图：
 
 ![Mark简历生成器操作图](https://raw.githubusercontent.com/caojiele/resume/master/img-folder/Dynamic_figure2.gif)
 
-网页链接：[Mark简历模板主页](https://www.caojiele.com/resume/)
+网页链接：[Mark简历模板主页](https://caojiele.com/online-resume/)
 
 ## **6、总结**
 
@@ -64,7 +64,7 @@ Mark简历生成器操作图：
 
 ## **7、关于我**
 
-Java 攻城狮，Apache Dubbo Committer、Alibaba、Apache等开源组织贡献者之一，常年出没于 Github、Gitee、知乎、简书 等地带。目前主要负责集团APP后端开发以及维护、微服务技术实施、基础设施构建等工作，有幸参与过阿里健康、平安万家医疗等公司大型项目开发；17年有了自己的第一个工作室，解决各种公司的「疑难杂症」，实现「天马行空」的需求。一直在需求和开发之间徘徊挣扎，任处于一线开发之中，绝招尚在开发。
+Hey，我是小码哥，Java 攻城狮，Apache、Alibaba等开源组织贡献者之一，常年出没于 Github、Gitee、知乎、简书 等地带。目前主要负责集团App后端开发以及维护、微服务技术实施、基础设施构建等工作，有幸参与过阿里健康、平安万家医疗等公司大型项目开发；17年有了自己的第一个[工作室](https://caojiele.com/cooperation/)，解决各种公司的「疑难杂症」，实现「天马行空」的需求。一直在需求和开发之间徘徊挣扎，任处于一线开发之中，绝招尚在开发。
 
 个人主页：https://caojiele.com
 
@@ -74,8 +74,13 @@ Java 攻城狮，Apache Dubbo Committer、Alibaba、Apache等开源组织贡献�
 
 segmentfault：https://segmentfault.com/u/xiaomage_5c10d17d26987
     
-微信公众号：    
-![微信公众号](https://raw.githubusercontent.com/caojiele/resume/master/img-folder/qrcode.jpg)
+微信公众号：xiaomage_freestyle    
+
+  ![微信公众号](https://raw.githubusercontent.com/caojiele/resume/master/img-folder/qrcode.jpg)
+
+更多详情，请扫二维码：
+
+  ![qrcode](https://cdn.nlark.com/yuque/0/2019/png/338441/1562683998026-42937005-a1e6-43cb-b51e-6aacf2952a56.png)
  
 ## **8、参考资料**
 
