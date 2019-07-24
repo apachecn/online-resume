@@ -1,4 +1,4 @@
-# Online-Resume
+# Online Resume
 
 ### [中文文档](README_zh.md)
 
@@ -15,7 +15,7 @@ How is it possible!I have confidence in writing your own resume template, put th
 
 We can take advantage of making Github page hosting service Github Pages display Pages to help us to do.
 
-![background](https://raw.githubusercontent.com/caojiele/resume/master/img-folder/bd-show0.png)
+![background](https://cdn.nlark.com/yuque/0/2019/png/338441/1563288299459-d2416856-ef5f-4c15-a2a6-041ae4f3f6ca.png)
 
 **What is Github Pages？**
 
@@ -46,17 +46,17 @@ Request to resume with a suitable for developers, this project can be perfect fo
 
 Resume pages： 
 
-![Resume pages](https://raw.githubusercontent.com/caojiele/resume/master/img-folder/bd_show3.png) 
+![Resume pages](https://cdn.nlark.com/yuque/0/2019/png/338441/1563288435058-5e6b931a-5ddf-4f8f-97b8-fdf1030ee04b.png) 
 
 Save the PDF version：
 
-![Save the PDF version](https://raw.githubusercontent.com/caojiele/resume/master/img-folder/bd_show4.png) 
+![Save the PDF version](https://cdn.nlark.com/yuque/0/2019/png/338441/1563288446983-260d6296-7fb9-4e94-982a-b2e0c9ac6775.png) 
 
 Mark-Online-Resume：
 
 ![Mark-Online-Resume](https://raw.githubusercontent.com/caojiele/resume/master/img-folder/Dynamic_figure2.gif)
 
-Web link：[Mark-Online-Resume](https://www.caojiele.com/resume/)
+Web link：[Mark-Online-Resume](https://caojiele.com/online-resume/)
 
 ## **Conclusion**
 
@@ -64,7 +64,7 @@ This project is mainly to have no contact with dead simple Pages for a demonstra
 
 ## **About**
 
-Hey, I'm Jack Cao, Java engineer, as a member in Apache Dubbo Committer, such as the Apache & Alibaba open source contributor, found in all the year round lot, Github, Gitee, zhihu, jianshu. At present is mainly responsible for group APP back-end development and maintenance, micro services infrastructure, infrastructure construction, Had the opportunity with Alibaba Health & PICC participate in large-scale project development; and my first [studio](https://caojiele.com/cooperation/) was founded in 2017, solve all kinds of company 「incurable diseases」, to achieve the demand of 「imagination」.Have been torn between the demand and development of struggle, as in a line of powerhouse, is still in development.
+Hey, I'm Jack Cao, Java engineer, such as the Apache & Alibaba open source contributor, found in all the year round lot, Github, Gitee, zhihu, jianshu. At present is mainly responsible for group App backend development and maintenance, micro services infrastructure, infrastructure construction, Had the opportunity with Alibaba Health & PICC participate in large-scale project development; and my first [studio](https://caojiele.com/cooperation/) was founded in 2017, solve all kinds of company 「incurable diseases」, to achieve the demand of 「imagination」.Have been torn between the demand and development of struggle, as in a line of powerhouse, is still in development.
 
 home：https://caojiele.com
 
@@ -76,10 +76,14 @@ imooc：https://www.imooc.com/u/4024769/articles
 
 segmentfault：https://segmentfault.com/u/xiaomage_5c10d17d26987
     
-Wechat:
+Wechat: xiaomage_freestyle
 
- ![Wechat](https://raw.githubusercontent.com/caojiele/resume/master/img-folder/qrcode.jpg)
+  ![Wechat](https://cdn.nlark.com/yuque/0/2019/jpeg/338441/1562681958344-f9b0d53f-2be5-42d0-bdb6-b043d04fd856.jpeg)
  
+More details, please scan qrcode：
+  
+  ![qrcode](https://cdn.nlark.com/yuque/0/2019/png/338441/1562683998026-42937005-a1e6-43cb-b51e-6aacf2952a56.png) 
+  
 ## **Resources**
 
 * [GitHub Pages Basics](https://help.github.com/categories/github-pages-basics/)
